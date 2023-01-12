@@ -16,7 +16,7 @@ The course integrates discussions about research design and data analysis with t
 
 **Textbook**: Imai, Kosuke. (2017). [Quantitative Social Science: An Introduction](https://qss.princeton.press).    
 
-**Syllabus**: 
+**Syllabus**: [Spring2023](/assets/BUSH_Syllabus2022.pdf).
 
 ### Additional Resources
 
