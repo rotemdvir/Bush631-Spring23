@@ -18,6 +18,11 @@ The course integrates discussions about research design and data analysis with t
 
 **Syllabus**: [Spring2023](/assets/BUSH_Syllabus2022.pdf).
 
+**Tasks and Assignments**  
+
+  - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).  
+
+
 ### Additional Resources
 
 **International Affairs Analysis**  
