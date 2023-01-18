@@ -25,3 +25,19 @@ The course integrates discussions about research design and data analysis with t
   - Recommended websites: [War on the Rocks](https://warontherocks.com); [Political Violence at a Glance](https://politicalviolenceataglance.org);[Monkey Cage](https://monkeycagetopicguides.org); [The Conversation](https://theconversation.com/us).
   - Recommended podcasts: [Paul Poast Pod](https://open.spotify.com/show/57N2HMfcYw3coHTPv1lYw7); [Intellignece Matters](https://podbay.fm/p/intelligence-matters); [IS: Off the Page](https://www.belfercenter.org/OffthePage); [Chain Reaction(FPRI)](https://www.fpri.org/multimedia/chain-reaction/); [Brookings Cafeteria](https://www.brookings.edu/series/brookings-cafeteria-podcast/); [WOTR Pod](https://warontherocks.com/category/podcasts/war-on-the-rocks/).  
 
+
+## Course Schedule and Content
+
+### Week 1 (01.17.2023)  
+
+  - Required Reading: QSS, Ch. 1 (pp. 1-31).
+  - Slides: [QSS & Intro to R](/assets/Week1/wk1_slides.pdf).
+  - R code: [Week1](/assets/Week1/Code_week1.R).
+  - Data: [Ags](/assets/Week1/ags.xlsx).
+
+
+
+
+
+
+
