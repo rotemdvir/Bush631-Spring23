@@ -20,7 +20,8 @@ The course integrates discussions about research design and data analysis with t
 
 **Tasks and Assignments**  
 
-  - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).  
+  - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).
+  - Swirl tasks submission times: [Swirl Timeline](/assets/Tasks/Swirl_timeline.pdf).
 
 
 ### Additional Resources
