@@ -22,6 +22,8 @@ The course integrates discussions about research design and data analysis with t
 
   - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).
   - Swirl tasks submission times: [Swirl Timeline](/assets/Tasks/Swirl_timeline.pdf).
+  - Working with R - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).
+  - Working with R - Class Tasks: [Task 1 Code](/assets/Tasks/ClassTask1.R).
 
 
 ### Additional Resources
@@ -50,6 +52,15 @@ The course integrates discussions about research design and data analysis with t
   - R code: [Week2](/assets/Week2/Code_week2.R).
   - R Tech: [Wk2 Tech](/assets/Week2/Wk2_Tech.R).
   - Data: [Ags](/assets/Week2/MattesweeksEdit.dta).
+
+### Week 3 (01.31.2023)  
+
+  - Required Reading: QSS, Ch. 2 (pp. 54-74, sections 2.5-2.8).
+  - Recommended Reading: Fuhrmann, Matthew, and Michael Horowitz. (2015). ["When leaders matter: Rebel experience and nuclear proliferation."](https://doi.org/10.1086/678308) *The Journal of Politics*, 77(1), 72-87.
+  - Slides: [Causality Vol. II](/assets/Week3/wk3_slides.pdf).
+  - R code: [Week3](/assets/Week3/Code_week3.R).
+  - R Tech: [Wk3 Tech](/assets/Week3/Wk3_Tech.R).
+  - Data: [Rebels](/assets/Week3/FH Dataset 2014-0519.dta).
 
 
 
