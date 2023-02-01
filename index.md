@@ -60,7 +60,7 @@ The course integrates discussions about research design and data analysis with t
   - Slides: [Causality Vol. II](/assets/Week3/wk3_slides.pdf).
   - R code: [Week3](/assets/Week3/Code_week3.R).
   - R Tech: [Wk3 Tech](/assets/Week3/Wk3_Tech.R).
-  - Data: [Rebels](/assets/Week3/FH Dataset 2014-0519.dta).
+  - Data: [Rebels](/assets/Week3/RebelsDataset_FH2015.dta).
 
 
 
