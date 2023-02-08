@@ -62,6 +62,20 @@ The course integrates discussions about research design and data analysis with t
   - R Tech: [Wk3 Tech](/assets/Week3/Wk3_Tech.R).
   - Data: [Rebels](/assets/Week3/RebelsDataset_FH2015.dta).
 
+### Week 4 (02.07.2023)  
+
+  - Required Reading: QSS, Ch. 3 (pp. 75-96, sections 3.1-3.4).
+  - Recommended Reading: Sagan, S., & Benjamin Valentino. (2018). ["Not just a war theory: American public opinion on ethics in combat."](https://doi.org/10.1093/isq/sqy033) *International Studies Quarterly*, 62(3), 548-561.
+  - Recommended reading: Dvir, R., Geva, N., & Arnold Vedlitz. (2021). ["Unpacking Public Perceptions of Terrorism: Does Type of Attack Matter?."](https://doi.org/10.1080/1057610X.2021.1886427) *Studies in Conflict & Terrorism*, 1-21.
+  - Slides: [Measurement Vol. I](/assets/Week4/wk4_slides.pdf).
+  - R code: [Week4](/assets/Week4/Code_week4.R).
+  - Data: [War Ethics](/assets/Week4/WarEthics.dta).
+  - Data: [Terror survey](/assets/Week4/Bush_TerrorSurvey.csv).
+  - Data: [Afghan Villages](/assets/Week4/afghan-village.csv).
+
+
+
+
 
 
 
