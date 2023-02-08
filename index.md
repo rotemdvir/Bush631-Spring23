@@ -24,6 +24,9 @@ The course integrates discussions about research design and data analysis with t
   - Swirl tasks submission times: [Swirl Timeline](/assets/Tasks/Swirl_timeline.pdf).
   - Working with R - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).
   - Working with R - Class Tasks: [Task 1 Code](/assets/Tasks/ClassTask1.R).
+  - Working with R - Class Tasks: [Task 2 Code](/assets/Tasks/ClassTask2.R).
+  - Working with R - R Markdown: [Prep Markdown Template](/assets/Tasks/MarkdownTemp_Ins.pdf).
+  - Working with R - R Markdown: [Editing Markdown Docx](/assets/Tasks/Markdown_Inst.pdf)
 
 
 ### Additional Resources
