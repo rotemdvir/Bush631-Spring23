@@ -25,6 +25,7 @@ The course integrates discussions about research design and data analysis with t
   - Working with R - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).
   - Working with R - Class Tasks: [Task 1 Code](/assets/Tasks/ClassTask1.R).
   - Working with R - Class Tasks: [Task 2 Code](/assets/Tasks/ClassTask2.R).
+  - Working with R - Class Tasks: [Task 3 Markdown](/assets/Tasks/ClassTask3.Rmd).
   - Working with R - R Markdown: [Prep Markdown Template](/assets/Tasks/MarkdownTemp_Ins.pdf).
   - Working with R - R Markdown: [Editing Markdown Docx](/assets/Tasks/Markdown_Inst.pdf)
 
@@ -95,6 +96,16 @@ The course integrates discussions about research design and data analysis with t
   - Data: [Military Spending2](/assets/Week6/mil_exp2.xlsx).
   - Data: [Military Aid](/assets/Week6/MilitaryAidData.dta).
 
+### Week 7 (02.28.2023)  
+
+  - Required Reading: QSS, Ch. 4 (pp. 139-161, section 4.2).
+  - Recommended Reading: Doces, J. and Magee, C. (2015). ["Trade and Democracy: A Factor-Based Approach."](https://www.tandfonline.com/doi/full/10.1080/03050629.2015.984065) *International Interactions*, 41,2: 407-425.
+  - Slides: [Prediction Vol. II](/assets/Week7/wk6_deck.pdf).
+  - R code: [Week7](/assets/Week7/Code_week6b.R).
+  - Data: [Face](/assets/Week7/face.csv).
+  - Data: [Health](/assets/Week7/health.csv).
+  - Data: [Trade](/assets/Week7/doces_magee_data.dta).
+  - Data: [FL Votes](/assets/Week7/florida.csv).
 
 
 
