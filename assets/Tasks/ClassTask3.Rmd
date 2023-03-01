@@ -1,0 +1,76 @@
+---
+title: "Bush 631: Class Task 3"
+output:
+  pdf_document: default
+author: Your Name
+date: "`r Sys.Date()`"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Upload any required package in this chunk
+library(readxl)
+library(tidyverse)
+library(haven)
+
+# Upload data
+insurgentdata <- read_dta("~/Dropbox/TAMU/Bush631_QuantMethods/Week3_Causality_II/Data_ClassTask1.dta")
+
+```
+
+## Making plots in R Markdown
+In this task we learn how to make plots
+
+### Insurgent data
+Using the class tasks data - Insurgent groups (1998-2012).  
+
+* Definition in code chunks:  
+
+  - echo = TRUE for displaying code on PDF.
+  - warning = FALSE to not display warnings from code with output.
+  - message = FALSE to not display messages with output.
+  - include = TRUE to include output like data analysis and plots.
+
+\vspace{2em}
+
+```{r, echo=TRUE, include=TRUE}
+
+# Add R code here
+x <- c(1,2,3,4)
+x
+
+y <- sum(x)
+y
+```
+\vspace{1em}
+
+* For plots:  
+
+  - out.width = enter (in percentages) how much the plots covers from the page (I usually use 80-90%).
+  - fig.align = center will place the plot at the center of the screen. 
+  
+* Task requirements:  
+
+  1. Plot the distribution of GDP/cap variable.
+  2. Plot the variables: Civilian fatalities vs. police and military fatalities
+
+\vspace{1em}
+```{r, echo=TRUE, include=TRUE, warning=FALSE, message=FALSE, fig.align='center', out.width="85%"}
+
+# Plot 1: GDP/cap - using tidyverse
+ggplot(insurgentdata, aes(x=gle_rgdpc)) +
+  geom_histogram() + theme_bw()
+
+```
+\vspace{1em}
+
+```{r, echo=TRUE, include=TRUE, warning=FALSE, message=FALSE, fig.align='center', out.width="85%"}
+
+# Plot 2: Civilian fatalities vs. police and military fatalities - using tidyverse
+ggplot(insurgentdata, aes(x=rev_nonpm_fatalities,y=rev_pm_fatalities)) +
+  geom_point() + theme_bw()
+
+```
+
+
+
