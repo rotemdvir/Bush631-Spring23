@@ -107,6 +107,21 @@ The course integrates discussions about research design and data analysis with t
   - Data: [Trade](/assets/Week7/doces_magee_data.dta).
   - Data: [FL Votes](/assets/Week7/florida.csv).
 
+### Week 8 (03.07.2023)  
+
+  - Required Reading: QSS, Ch. 4 (ppp. 161-182, section 4.3).
+  - Recommended Reading: Wood, T., Hoy, C., and Pryke, J. (2021). ["The Effect of Geostrategic Competition on Public Attitudes to Aid."](https://doi.org/10.1017/XPS.2020.27), *Journal of Experimental Political Science*, 8(3), 285-295.
+  - Recommended Reading: Fuhrmann, M. (2020). ["When Do Leaders Free-Ride? Business Experience and Contributions to Collective Defense"](https://doi.org/10.1111/ajps.12502), *American Journal of Political Science*, 64(2), 416-431.
+  - Slides: [Prediction Vol. III](/assets/Week8/wk7_deck.pdf).
+  - R code: [Week8](/assets/Week8/Code_week8.R).
+  - Data: [Women Leaders](/assets/Week8/women.csv)
+  - Data: [Aussie](/assets/Week8/AussieData_JEPS2021.dta).
+  - Data: [Int'l Crisis](/assets/Week8/ICB_Feb2020.dta).
+  - Data: [NATO I](/assets/Week8/matt_defspend.xlsx).
+  - Data: [NATO II](/assets/Week8/defense_spending.dta).
+
+
+
 
 
 
