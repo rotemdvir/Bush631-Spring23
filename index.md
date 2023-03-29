@@ -134,11 +134,11 @@ The course integrates discussions about research design and data analysis with t
 
   - Required Reading: QSS, Ch. 6 (pp. 277-313, sections 6.3-6.5).
   - Recommended Reading: Horowitz, M., McDermott, R., and Alan Stam. (2005). ["Leader age, regime type, and violent international relations."](https://doi.org/10.1177/0022002705279469) *Journal of Conflict Resolution*, 49(5), 661-685.
-  - Slides: [Probability Vol. II](/assets/Week10/wk10_slides.pdf).
-  - R code: [Week10](/assets/Week10/Code_week10.R).
-  - R Tech: [Wk10 Tech](/assets/Week10/Wk10_Tech.R).
+  - Slides: [Probability Vol. II](/assets/Week 10/wk10_slides.pdf).
+  - R code: [Week10](/assets/Week 10/Code_week10.R).
+  - R Tech: [Wk10 Tech](/assets/Week 10/Wk10_Tech.R).
   - Data: [AggiesNFL](/assets/Week9/Ags_Data.xlsx).
-  - Data: [Leaders Age](/assets/Week10/LeaderDataset.dta).
+  - Data: [Leaders Age](/assets/Week 10/LeaderDataset.dta).
 
 
 
