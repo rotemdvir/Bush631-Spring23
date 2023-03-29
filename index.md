@@ -27,7 +27,8 @@ The course integrates discussions about research design and data analysis with t
   - Working with R - Class Tasks: [Task 2 Code](/assets/Tasks/ClassTask2.R).
   - Working with R - Class Tasks: [Task 3 Markdown](/assets/Tasks/ClassTask3.Rmd).
   - Working with R - R Markdown: [Prep Markdown Template](/assets/Tasks/MarkdownTemp_Ins.pdf).
-  - Working with R - R Markdown: [Editing Markdown Docx](/assets/Tasks/Markdown_Inst.pdf)
+  - Working with R - R Markdown: [Editing Markdown Docx](/assets/Tasks/Markdown_Inst.pdf).
+  - Final Project: [Instructions](/assets/Tasks/Final_Inst2.pdf).
 
 
 ### Additional Resources
