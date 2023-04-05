@@ -140,6 +140,15 @@ The course integrates discussions about research design and data analysis with t
   - Data: [AggiesNFL](/assets/Week9/Ags_Data.xlsx).
   - Data: [Leaders Age](/assets/Week 10/LeaderDataset.dta).
 
+### Week 11 (04.04.2023)  
+
+  - Required Reading: QSS, Ch. 7 (pp. 314-342, section 7.1).
+  - Recommended Reading: Robinson, Kali. (2021). ["What is the the Iran Nuclear Deal?"](https://www.cfr.org/backgrounder/what-iran-nuclear-deal) *Council of Foreign Relations website*.
+  - Recommended Reading: Smeltz, D., Farmanesh, A., and Brendon Helm. (2021). ["Iranians and Americans Support A Mutual Return to JCPOA."](https://globalaffairs.org/research/public-opinion-survey/iranians-and-americans-support-mutual-return-jcpoa) *The Chicago Council on Global Affairs Report*.
+  - Slides: [Uncertainty Vol. I](/assets/Week 11/wk11_slides.pdf).
+  - R code: [Week11](/assets/Week 11/Code_week11.R).
+
+
 
 
 
