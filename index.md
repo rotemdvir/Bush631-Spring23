@@ -148,6 +148,14 @@ The course integrates discussions about research design and data analysis with t
   - Slides: [Uncertainty Vol. I](/assets/Week 11/wk11_slides.pdf).
   - R code: [Week11](/assets/Week 11/Code_week11.R).
 
+### Week 12 (04.11.2023)  
+
+  - Required Reading: QSS, Ch. 7 (pp. 342-369, section 7.2).
+  - Recommended Reading: 
+  - Slides: [Uncertainty Vol. II](/assets/Week12/wk12_slides.pdf).
+  - R code: [Week12](/assets/Week12/Code_week12.R).
+  - Data: [FP Leaders](/assets/Week2/MattesWeeksEdit.dta)
+
 
 
 
